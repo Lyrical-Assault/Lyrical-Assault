@@ -1,6 +1,7 @@
 ### Привет!👋 Меня зовут Сергей, я разработчик C++
 
 Я выпускник курса C++ [Яндекс.Практикум](https://practicum.yandex.ru)
+
 Стек:
 - C++
 - STL
@@ -9,6 +10,8 @@
 - ООП
 - Protobuf
 - Cmake
+
+В данный момент изучаю Linux, Docker, Boost, PostgreSQL, Load Testing.
 
 <!--
 **Lyrical-Assault/Lyrical-Assault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
