@@ -10,8 +10,11 @@
 - ООП
 - Protobuf
 - Cmake
-
-В данный момент изучаю Linux, Docker, Boost, PostgreSQL, Load Testing.
+- Boost
+- PostgreSQL
+- Linux
+- Docker
+- Load Testing
 
 <!--
 **Lyrical-Assault/Lyrical-Assault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
